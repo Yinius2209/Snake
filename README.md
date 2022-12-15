@@ -13,3 +13,5 @@ Below are images of the game already built.
 <image src="img1.png" alt="pong">
 
 <image src="img2.png" alt="pong">
+  
+<image src="img3.png" alt="pong">
